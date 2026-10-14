@@ -80,6 +80,14 @@ with all transitive dependencies.
 ```
 
 
+Release
+-------
+
+The release needs to be done via [npm trusted publishing](https://docs.npmjs.com/trusted-publishers). Set it up if needed.
+See `mock-js` for the reference implementation and consult the frontend shared credentials guideline.
+
+**Note:** Before the setup, make sure to upgrade Node.js to meet the minimum npm version requirements of trusted publishing.
+
 Copyright
 ---------
 
