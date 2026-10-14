@@ -4,7 +4,7 @@ README.md
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "6317c36384260688e5e62894b971aed3b57ed97a",
+  "base_commit_sha": "fc8cf26bd13355f6a86e96cf7f2847923895b0bd",
   "prompts": {},
   "sessions": {
     "s_b042fdbbcf51d3": {
