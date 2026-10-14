@@ -1,0 +1,19 @@
+README.md
+  s_b042fdbbcf51d3::t_e9db206a8a37c3 83-90
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6317c36384260688e5e62894b971aed3b57ed97a",
+  "prompts": {},
+  "sessions": {
+    "s_b042fdbbcf51d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f572592a-1216-4f9c-84cb-1e8dbc2eb0fb",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Petr Benes <petr.benes@gooddata.com>"
+    }
+  }
+}
